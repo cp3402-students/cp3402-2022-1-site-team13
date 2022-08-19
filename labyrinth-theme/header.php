@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title><?php bloginfo('name'); ?></title>
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/labyrinth.css">
     <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/assets/js/bootstrap.min.js"></script>
 </head>
