@@ -1,1 +1,11 @@
-# site file
+# About page or article
+    If you want to display it in the header bar, you need to add a page, and if you want to display new content in the News page, you need to add an article
+
+
+
+# How to Add Page
+    Log in to wordpress and open the page TAB on the left. Click Add Page button
+
+
+# How to Add Article/News
+    Log in to the wordpress background and open the page TAB on the left. Click the Post button
